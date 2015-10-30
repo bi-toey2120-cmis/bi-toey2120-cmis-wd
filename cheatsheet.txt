@@ -1,0 +1,12 @@
+cd- home
+cd .. - parent folder
+cd foldername- change folder
+cat- display files
+git add- add the file in the local repository and stages the for commit
+git commit- local save
+git push- upload github
+
+
+
+
+
