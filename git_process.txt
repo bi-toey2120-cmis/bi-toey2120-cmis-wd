@@ -1,0 +1,15 @@
+steps
+1. Copy the link in your email.
+2. Open the application terminal 
+3. clone your respitory by pressing shift+insert to paste the link you copied (press enter)
+4. Type: ls (press enter)
+5. Type: cd your_repository (press enter)
+6. Type: gedit filename & (press enter)
+7. After you're done with the file, save it, close the file.
+8. Type: git add filename (press enter)
+9. Type: git commit -m "description of what you did"
+10. Type: git push (press enter)
+11. It will ask for your username and password. Type: your github username (press enter) then type your github password (press enter).
+12. [DONE] go to github.com and check wheter the new file has been save to your respitory or not.
+
+
