@@ -5,7 +5,12 @@ cat- display files
 git add- add the file in the local repository and stages the for commit
 git commit- local save
 git push- upload github
+ls- list content 
 
+sftp username@cmis-hsteacher 
+put <filename> - upload a file
+rm  <filename> - remove file
+* - everything
 
 
 
