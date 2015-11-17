@@ -1,0 +1,33 @@
+h1{
+	font-family:impact;
+	color:yellow;
+	font-size:45px;
+	font-style:italic;
+	background-color:purple;
+}
+h2{	
+	
+	font-family:Times New Roman;
+	color:purple;
+	font-size:25px;
+	background-color:yellow;
+}
+h3{
+	
+	font-family:Times New Roman;
+	color:yellow;
+	font-size:22px;
+	background-color:green;
+}
+p1{
+	font-family:impact;
+	color:blue;
+	font-style:italic;
+}
+header{
+	background-color:red;
+}
+article{
+	border:dashed;
+
+
