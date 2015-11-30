@@ -1,0 +1,39 @@
+h4{ 
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+}
+h1{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+}
+h2{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+}
+h3{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+		
+}
+thead{ 	
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+		color:black;
+		font-size: 35px:
+}
+tbody{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+}
+tfoot{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+}
+
