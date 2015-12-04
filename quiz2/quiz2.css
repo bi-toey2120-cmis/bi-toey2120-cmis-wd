@@ -1,0 +1,95 @@
+h4{ 
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+		margin-left: 635px;
+		padding: 25px;
+		width: 50px;
+}
+h1{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+		margin-left: 470px;
+		padding: 25px;
+		width: 600px;
+}
+header{
+		background-color: red yellow;
+}
+h3{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+		margin-left: 600px;
+		padding: 25px;
+		width: 130px;
+		
+}
+thead{ 	
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+		color:black;
+		font-size: 35px:
+}
+tbody{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+}
+tfoot{
+		background-color: white;
+		border-style: solid;
+		border-color: red black blue;
+}
+p1 > li {	
+		background-color: orange;
+		border-style: solid;
+		border-color: red black blue;
+		margin-left: 300px;
+		padding: 25px;
+		width: 600px;
+}
+		
+P{
+		margin: 25px;
+		padding: 25px;
+		width: 1400px;
+}
+p1{
+		background-color: orange;
+		border-style: solid;
+		border-color: red black blue;
+		margin-left: 400px;
+		padding: 10px;
+		width: 600px;
+}
+p2{
+		background-color: orange;
+		border-style: solid;
+		border-color: red black blue;
+		margin-left: 550px;
+		padding: 10px;
+		width: 600px;
+}
+		
+ul1 > li {
+		background-color: orange;
+}
+h2 + ol {
+		background-color: yellow;
+		border-style: solid;
+		border-color: red black blue;
+		
+}
+header{
+		border-style: solid;
+		border-color: black;
+		background-color: red;
+}
+
+		
+
+
+
